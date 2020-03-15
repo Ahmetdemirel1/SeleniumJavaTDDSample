@@ -22,7 +22,7 @@ public class BaseTest {
 
         log.info("************* Test Başlıyor **************");
         browser.createDriver();
-        getDriver().navigate().to("https://www.google.com.tr");
+        getDriver().navigate().to("https://www.hepsiburada.com/");
     }
 
     @After
